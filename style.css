@@ -1,5 +1,5 @@
 .navbar {
-    background: linear-gradient(to right, white 15%, #e6b3e6);
+    background: linear-gradient(to right, white 15%, #427570);
     position: fixed;
     z-index: 2;
     width: 100%;
@@ -8,8 +8,8 @@
 
 
 .try {
-    margin-top: 30px;
-    margin-bottom: 30px;
+    margin-top: 10px;
+    margin-bottom: 10px;
     max-width: 100%;
 }
 
@@ -22,7 +22,7 @@
 .navbar-brand {
     font-family: 'Kaushan Script', cursive;
     font-size: 45px;
-    color: #990099;
+    color: #427570 ;
     padding-left: 40px;
 }
 
@@ -92,7 +92,7 @@ body {
 .cust_review {
     padding-top: 30px;
     /*//padding-bottom: 30px;*/
-    background-color: #f2d9f2;
+    background-color: #427570 ;
     padding-left: 10px;
     padding-right: 10px;
 }
@@ -152,7 +152,7 @@ body {
 .product-headding-row {
     font-family: 'Courgette', cursive;
     /*text-align: center;*/
-    color: purple;
+    color: #427570 ;
 }
 
 .product-para-row {
@@ -175,7 +175,7 @@ body {
 .contact-headding-row {
 
     font-family: 'Courgette', cursive;
-    color: purple;
+    color: #427570;
     padding-top: 30px;
 }
 
@@ -231,12 +231,12 @@ iframe {
 
 footer {
     margin-top: 20px;
-    background: linear-gradient(to left, #df9fdf, white 32%, #e6b3e6);
+    background: linear-gradient(to left, #427570, white 32%, #427570);
 }
 
 
 .footer_social {
-    color: purple;
+    color: #427570 ;
     font-size: 30px;
     padding: 5px;
     /*padding-top:10px;*/
@@ -250,7 +250,7 @@ footer {
 #footer-brand {
     font-family: 'Kaushan Script', cursive;
     font-size: 35px;
-    color: #990099;
+    color: #427570;
 }
 
 .footer-headding {
