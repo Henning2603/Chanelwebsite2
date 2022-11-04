@@ -1,7 +1,7 @@
 * {
     box-sizing: border-box;
     margin: 0;
-    background-color: #133b5c;
+    background-color: #427570;
   }
   
   h1 {
@@ -10,7 +10,7 @@
     text-align: center;
     margin: 25px;
     padding: 50px;
-    background-color: #1d2d50;
+    background-color: #427570;
     color: #fcdab7;
     overflow: hidden;
   }
